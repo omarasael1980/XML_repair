@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CARTAPORTEMX_V2 xmlns:cartaporte30="http://www.sat.gob.mx/CartaPorte30" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:cartaporte20="http://www.sat.gob.mx/CartaPorte20" xmlns:cartaporte31="http://www.sat.gob.mx/CartaPorte31" Version="3.3" Serie="C" Folio="0000030089" Fecha="2024-11-01T15:21:29" SubTotal="0" Moneda="XXX" Total="0" TipoDeComprobante="T" LugarExpedicion="21385">
+    <Emisor Rfc="KME591225JY1" Nombre="Kenworth Mexicana SA de CV" RegimenFiscal="601"/>
+    <Receptor Rfc="KLO1012138Q6" Nombre="KTR LOGISTICS S DE RL DE CV" UsoCFDI="P01"/>
+    <Complemento>
+        <cartaporte31:CartaPorte Version="3.1" TranspInternac="Sí" EntradaSalidaMerc="Salida,Entrada">
+            <cartaporte31:RegimenesAduaneros>
+                <cartaporte31:RegimenAduaneroCCP RegimenAduanero="DFI"/>
+            </cartaporte31:RegimenesAduaneros>
+            <cartaporte31:Mercancias PesoBrutoTotal="115239.961" UnidadPeso="KGM" NumTotalMercancias="30696">
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL OPERACION TRANSMISION" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.002" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.002" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL OPERACION TRANSMISION" Cantidad="22.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.022" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.022" NumPiezas="22"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL P/OPER.FRENO D/MOTOR" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.250" FraccionArancelaria="4901999100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.250" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL P/RETARDADOR D/MOTOR" Cantidad="3.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.003" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.003" NumPiezas="3"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55121600" Descripcion="ETIQUETA ID.INSTRUCCION FINAL" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.005" FraccionArancelaria="4901109900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.005" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL MOTOR ISX EURO" Cantidad="43.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="4.300" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="4.300" NumPiezas="43"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL MOTOR ISB EURO" Cantidad="3.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.300" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.300" NumPiezas="3"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL MOTOR ISL EURO" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL MOTOR 2018 CUMM. FRANCE" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.001" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.001" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.020" FraccionArancelaria="4911999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.020" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="FOLLETO GARANTIA" Cantidad="8.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.400" FraccionArancelaria="4911109900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.400" NumPiezas="8"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="INTRUCTIVO P/EJE EATON TANDEM" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.200" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.200" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="FOLLETO DE GARANTIA" Cantidad="7.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.070" FraccionArancelaria="4901109900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.070" NumPiezas="7"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="46.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.046" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.046" NumPiezas="46"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="46171500" Descripcion="LLAVERO KENWORTH TIPO ESTANDAR" Cantidad="62.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.062" FraccionArancelaria="7326909999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.062" NumPiezas="62"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL D/OPERACION" Cantidad="5.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.500" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.500" NumPiezas="5"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="FOLLETO DE GARANTIA" Cantidad="5.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.045" FraccionArancelaria="4901109900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.045" NumPiezas="5"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE GARANTIA DE LLANTAS" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.200" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.200" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL SELECTOR DE CAMBIOS" Cantidad="22.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.220" FraccionArancelaria="4901990100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.220" NumPiezas="22"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25174400" Descripcion="INDICACIONES SISTEMA ONGUARD" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.002" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.002" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="TARJETA GARANTIA PARA LLANTAS" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.001" FraccionArancelaria="4901109900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.001" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERACION TRANSMISIO" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.001" FraccionArancelaria="4911109900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.001" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL OPERADOR TRANSM EATON E" Cantidad="5.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.005" FraccionArancelaria="4911109900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.005" NumPiezas="5"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.020" FraccionArancelaria="4911109900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.020" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="JUEGO MANUALES RUEDA QUINTA" Cantidad="47.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.047" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.047" NumPiezas="47"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL OPERADOR" Cantidad="11.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.110" FraccionArancelaria="4911109900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.110" NumPiezas="11"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.020" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.020" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.020" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.020" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL OPERADOR" Cantidad="4.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.040" FraccionArancelaria="4911109900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.040" NumPiezas="4"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.400" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.400" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.800" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.800" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.400" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.400" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL OPERACION" Cantidad="13.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.013" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.013" NumPiezas="13"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE CHOFER" Cantidad="3.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.003" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.003" NumPiezas="3"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE CHOFER" Cantidad="3.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.003" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.003" NumPiezas="3"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="11.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.011" FraccionArancelaria="4911109900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.011" NumPiezas="11"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERACION" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.002" FraccionArancelaria="4911999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.002" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.002" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.002" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL POSTRATAMIENTO" Cantidad="16.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.160" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.160" NumPiezas="16"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="4.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.040" FraccionArancelaria="4911109900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.040" NumPiezas="4"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="21.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.840" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.840" NumPiezas="21"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.400" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.400" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="55101500" Descripcion="MANUAL DE OPERADOR" Cantidad="55.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.500" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.500" NumPiezas="55"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25174800" Descripcion="SUPLEMENTO MANUAL REQTO GHG" Cantidad="23.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.300" FraccionArancelaria="4901999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.300" NumPiezas="23"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA SILICON P/CALEFACCION" Cantidad="3200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="944.000" FraccionArancelaria="3917399900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="944.000" NumPiezas="3200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA D/TORQUE CONSTANTE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA #4" Cantidad="50.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="21.500" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="21.500" NumPiezas="50"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ADMISION DE AIRE" Cantidad="3.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.390" FraccionArancelaria="3917399900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.390" NumPiezas="3"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA SILICON P/CALEFACCION" Cantidad="64.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="18.880" FraccionArancelaria="3917399900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="18.880" NumPiezas="64"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="LINEA DE LIQUIDO DE A/C" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="3917399900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR DE COLOR" Cantidad="65.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.065" FraccionArancelaria="3926909999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.065" NumPiezas="65"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25174400" Descripcion="DISTRIBUIDOR LINEAS DE AIRE" Cantidad="32.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="10.560" FraccionArancelaria="8708299999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="10.560" NumPiezas="32"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25174400" Descripcion="KIT DE TUBING P/TABLERO" Cantidad="7.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.150" FraccionArancelaria="8708999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.150" NumPiezas="7"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA P/CALENTON" Cantidad="15.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.750" FraccionArancelaria="3917399900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.750" NumPiezas="15"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="LINEA COMBUSTIBLE #08" Cantidad="26.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="19.500" FraccionArancelaria="8708999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="19.500" NumPiezas="26"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.002" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.002" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA" Cantidad="15.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.015" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.015" NumPiezas="15"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.002" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.002" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA" Cantidad="8.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.008" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.008" NumPiezas="8"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA" Cantidad="7.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.007" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.007" NumPiezas="7"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA-COPLE CAC" Cantidad="5.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.250" FraccionArancelaria="3917399900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.250" NumPiezas="5"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90GR 3/4&quot; #8" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="22.000" FraccionArancelaria="7307920200" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="22.000" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90 GRADOS" Cantidad="150.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="4.500" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="4.500" NumPiezas="150"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90 GRADOS" Cantidad="6.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.180" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.180" NumPiezas="6"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90 GRADOS" Cantidad="150.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="16.500" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="16.500" NumPiezas="150"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90 GRADOS" Cantidad="150.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="16.500" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="16.500" NumPiezas="150"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 45 GRADOS" Cantidad="170.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="11.900" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="11.900" NumPiezas="170"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25174800" Descripcion="TAPON GALVANIZADO" Cantidad="400.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="16.000" FraccionArancelaria="8409999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="16.000" NumPiezas="400"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25172600" Descripcion="ADAPTADOR" Cantidad="60.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="9.900" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="9.900" NumPiezas="60"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25172600" Descripcion="ADAPTADOR" Cantidad="60.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="9.900" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="9.900" NumPiezas="60"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90GR 1/2&quot;" Cantidad="80.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="12.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="12.000" NumPiezas="80"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR &quot;T&quot; 1/2&quot;" Cantidad="60.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="10.800" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="10.800" NumPiezas="60"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="NIPLE 1/4 X 3/8" Cantidad="30.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.030" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.030" NumPiezas="30"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90GR." Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="15.500" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="15.500" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90GR." Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="15.500" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="15.500" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90GR." Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="15.500" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="15.500" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90GR." Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="15.500" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="15.500" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90GR." Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="15.500" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="15.500" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE ADAPTADOR METRICO" Cantidad="75.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.250" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.250" NumPiezas="75"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE ADAPTADOR METRICO" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.300" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.300" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE ADAPTADOR METRICO" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.300" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.300" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE ADAPTADOR METRICO" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.300" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.300" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="87.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.740" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.740" NumPiezas="87"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="47.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.940" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.940" NumPiezas="47"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="66.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.320" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.320" NumPiezas="66"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="75.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.250" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.250" NumPiezas="75"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="75.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.250" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.250" NumPiezas="75"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="75.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.250" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.250" NumPiezas="75"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="75.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.250" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.250" NumPiezas="75"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="75.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.250" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.250" NumPiezas="75"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="75.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.250" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.250" NumPiezas="75"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="75.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.250" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.250" NumPiezas="75"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.400" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.400" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.400" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.400" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.400" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.400" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="4.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="4.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="4.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="4.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="8.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="8.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="8.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="8.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="8.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="8.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="8.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="8.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="8.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="8.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="8.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="8.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="8.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="8.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="8.000" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="8.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR-CODO 45GD" Cantidad="150.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="10.050" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="10.050" NumPiezas="150"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="230.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.380" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.380" NumPiezas="230"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.000" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="50.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.400" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.400" NumPiezas="50"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="50.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.400" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.400" NumPiezas="50"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="50.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.400" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.400" NumPiezas="50"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="50.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.400" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.400" NumPiezas="50"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR UNION" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.200" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.200" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE P/MANGUERA DE SERVICIO" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="7609000299" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE P/MANGUERA DE SERVICIO" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="7609000299" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE P/MANGUERA DE SERVICIO" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="7609000299" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE P/MANGUERA DE SERVICIO" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="7609000299" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE P/MANGUERA DE SERVICIO" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="7609000299" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE P/MANGUERA DE EMERGENCIA" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="8708300800" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE P/MANGUERA DE EMERGENCIA" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="8708300800" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE P/MANGUERA DE EMERGENCIA" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="8708300800" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE P/MANGUERA DE EMERGENCIA" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="8708300800" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO DE 90 GRADOS" Cantidad="400.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="8.400" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="8.400" NumPiezas="400"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO DE 90 GRADOS" Cantidad="40.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.800" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.800" NumPiezas="40"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO DE 90 GRADOS" Cantidad="40.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.800" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.800" NumPiezas="40"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR BUJE REDUCCION" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.400" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.400" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR BUJE REDUCCION" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.400" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.400" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR TAPON CUADRADO" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.000" FraccionArancelaria="7307920200" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR TAPON CUADRADO" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.000" FraccionArancelaria="7307920200" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR TAPON CUADRADO" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.000" FraccionArancelaria="7307920200" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR TAPON CUADRADO" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.000" FraccionArancelaria="7307920200" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR TAPON CUADRADO" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.000" FraccionArancelaria="7307920200" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25174800" Descripcion="TAPON CUADRADO DE 1/2" Cantidad="300.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="24.300" FraccionArancelaria="8409999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="24.300" NumPiezas="300"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25174800" Descripcion="TAPON CUADRADO DE 1/2" Cantidad="300.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="24.300" FraccionArancelaria="8409999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="24.300" NumPiezas="300"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONTECTOR MACHO J844" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO J844 90'" Cantidad="400.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="12.400" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="12.400" NumPiezas="400"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR" Cantidad="300.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="9.300" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="9.300" NumPiezas="300"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO 90GR. J844" Cantidad="90.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="11.700" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="11.700" NumPiezas="90"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO ANCLA 45 GRADOS" Cantidad="60.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.760" FraccionArancelaria="4016930499" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.760" NumPiezas="60"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO ANCLA 45 GRADOS" Cantidad="60.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.760" FraccionArancelaria="4016930499" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.760" NumPiezas="60"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 1/2" Cantidad="720.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="100.080" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="100.080" NumPiezas="720"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="26121600" Descripcion="CABLE TRENZADO" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.040" FraccionArancelaria="8544429999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.040" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="KIT DE MANGUERAS P/VENTILACION" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.002" FraccionArancelaria="8421399999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.002" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO ANCLA 45 GRADOS" Cantidad="60.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.760" FraccionArancelaria="4016930499" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.760" NumPiezas="60"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA P/CALENTON,SILICON" Cantidad="95.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="23.750" FraccionArancelaria="3917399900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="23.750" NumPiezas="95"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR BRANCH 1/4" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.200" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.200" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR BRANCH 1/4" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31162900" Descripcion="ABRAZADERA" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="45.400" FraccionArancelaria="7326909903" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="45.400" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR &quot;T&quot;" Cantidad="90.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="4.500" FraccionArancelaria="7616999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="4.500" NumPiezas="90"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25174800" Descripcion="GRASERA DE 90 GRADOS" Cantidad="2000.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="100.000" FraccionArancelaria="8487900200" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="100.000" NumPiezas="2000"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA DE NYLON" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="3917339900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR &quot;T&quot;" Cantidad="90.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="4.500" FraccionArancelaria="7616999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="4.500" NumPiezas="90"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA #4" Cantidad="25.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="10.750" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="10.750" NumPiezas="25"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="31161700" Descripcion="TUERCA FLARE #10" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.000" FraccionArancelaria="7415330300" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR P/MANGUERA COMB #8" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.200" FraccionArancelaria="7419809999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.200" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR P/MANGUERA COMB #8" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.200" FraccionArancelaria="7419809999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.200" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR P/MANGUERA COMB #8" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.200" FraccionArancelaria="7419809999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.200" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR P/MANGUERA COMB #8" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.200" FraccionArancelaria="7419809999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.200" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR P/MANGUERA COMB #8" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.200" FraccionArancelaria="7419809999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.200" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR P/MANGUERA COMB #10" Cantidad="150.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.150" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.150" NumPiezas="150"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR P/MANGUERA COMB #10" Cantidad="150.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.150" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.150" NumPiezas="150"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR P/MANGUERA COMB #10" Cantidad="150.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.150" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.150" NumPiezas="150"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE ADAPTADOR METRICO" Cantidad="75.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.250" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.250" NumPiezas="75"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE ADAPTADOR METRICO" Cantidad="75.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.250" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.250" NumPiezas="75"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.300" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.300" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="7.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="7.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="7.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="7.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="7.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="7.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="7.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="7.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="7.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="7.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="7.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="7.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="7.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="7.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR-CODO 45GD" Cantidad="160.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="12.480" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="12.480" NumPiezas="160"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="50.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.400" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.400" NumPiezas="50"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO DE 90 GRADOS" Cantidad="400.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="8.400" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="8.400" NumPiezas="400"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR TAPON CUADRADO" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.000" FraccionArancelaria="7307920200" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR TAPON CUADRADO" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.000" FraccionArancelaria="7307920200" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25174800" Descripcion="TAPON CUADRADO" Cantidad="500.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="34.000" FraccionArancelaria="8409999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="34.000" NumPiezas="500"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25174800" Descripcion="TAPON CUADRADO" Cantidad="500.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="34.000" FraccionArancelaria="8409999900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="34.000" NumPiezas="500"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40141600" Descripcion="VALVULA P/DESCARGA C/CABLE" Cantidad="40.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.040" FraccionArancelaria="8481809900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.040" NumPiezas="40"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO 1/2" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.800" FraccionArancelaria="7307999901" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.800" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90 GRADOS" Cantidad="20.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.800" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.800" NumPiezas="20"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="TEE 1/8&quot; #4 FLARE" Cantidad="195.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="7.410" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="7.410" NumPiezas="195"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO M14X1.5" Cantidad="8.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.512" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.512" NumPiezas="8"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR" Cantidad="300.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.300" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.300" NumPiezas="300"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90 GDS #6" Cantidad="105.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.615" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.615" NumPiezas="105"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR #4" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.800" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.800" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR #4" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.800" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.800" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR #4" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.800" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.800" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR #4" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.800" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.800" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR #4" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="5.800" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="5.800" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR-CODO 45GD" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR-CODO 45GD" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="7.200" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="7.200" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR-CODO 45GD" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="7.200" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="7.200" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40141600" Descripcion="VALVULA P/DESCARGA C/CABLE" Cantidad="40.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.040" FraccionArancelaria="8481809900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.040" NumPiezas="40"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR TEE" Cantidad="30.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.080" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.080" NumPiezas="30"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR TEE" Cantidad="30.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.080" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.080" NumPiezas="30"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR T MACHO" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.420" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.420" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR TEE #4" Cantidad="50.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.050" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.050" NumPiezas="50"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR #16 45GDS" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.470" FraccionArancelaria="7307999901" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.470" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90 GDS" Cantidad="288.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.440" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.440" NumPiezas="288"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR UNION T" Cantidad="30.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.630" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.630" NumPiezas="30"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR TEE" Cantidad="30.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.080" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.080" NumPiezas="30"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR DE COLOR" Cantidad="25.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.250" FraccionArancelaria="3926909999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.250" NumPiezas="25"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR DE COLOR" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="1.000" FraccionArancelaria="3926909999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="1.000" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR UNION T" Cantidad="150.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.150" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.150" NumPiezas="150"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="120.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="120"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="120.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="120"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="120.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="120"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="120.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="120"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO 90 GD." Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.200" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.200" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25173700" Descripcion="CODO CONECTOR MACHO 90 GRADOS" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.940" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.940" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="120.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.000" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.000" NumPiezas="120"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO 45 GR." Cantidad="24.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.024" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.024" NumPiezas="24"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO 45 GR." Cantidad="70.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.070" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.070" NumPiezas="70"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO 45 GR." Cantidad="70.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.070" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.070" NumPiezas="70"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO 45 GR." Cantidad="70.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.070" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.070" NumPiezas="70"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR BRONCE MACHO" Cantidad="60.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="9.600" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="9.600" NumPiezas="60"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR BRONCE MACHO" Cantidad="40.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.400" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.400" NumPiezas="40"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90 GRADOS" Cantidad="50.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.050" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.050" NumPiezas="50"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR NIPLE" Cantidad="43.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.860" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.860" NumPiezas="43"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO RECTO J844" Cantidad="160.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="12.800" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="12.800" NumPiezas="160"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO RECTO J844" Cantidad="40.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.200" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.200" NumPiezas="40"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO J844 90GR" Cantidad="20.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.660" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.660" NumPiezas="20"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="COPLE D/90 GRAD.P/COMBUSTIBLE" Cantidad="5.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.300" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.300" NumPiezas="5"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR MACHO 45 GR." Cantidad="66.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.066" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.066" NumPiezas="66"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO DE CALLE 90 GD." Cantidad="125.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.125" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.125" NumPiezas="125"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO DE CALLE 90 GD." Cantidad="125.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.125" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.125" NumPiezas="125"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40141600" Descripcion="VALVULA DE COMPUERTA 3/8" Cantidad="50.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="4.950" FraccionArancelaria="8708999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="4.950" NumPiezas="50"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40141600" Descripcion="VALVULA DE COMPUERTA 3/8" Cantidad="50.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="4.950" FraccionArancelaria="8708999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="4.950" NumPiezas="50"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40141600" Descripcion="VALVULA DE COMPUERTA 3/8" Cantidad="50.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="4.950" FraccionArancelaria="8708999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="4.950" NumPiezas="50"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR T" Cantidad="20.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.020" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.020" NumPiezas="20"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25174800" Descripcion="TAPON HEXAGONAL" Cantidad="500.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.500" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.500" NumPiezas="500"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR TIPO CRUZ #6" Cantidad="20.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.820" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.820" NumPiezas="20"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GDS" Cantidad="50.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.050" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.050" NumPiezas="50"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 45GDS-ROSCABLE" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.001" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.001" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA" Cantidad="5.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.005" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.005" NumPiezas="5"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.010" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.010" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.001" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.001" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.001" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.001" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.001" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.001" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO DE CALLE 90 GD." Cantidad="125.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.125" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.125" NumPiezas="125"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA #6" Cantidad="10.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="4.250" FraccionArancelaria="4009320501" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="4.250" NumPiezas="10"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA ENSAMBLADA" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.119" FraccionArancelaria="3917399900" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.119" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA PARA COMBUSTIBLE" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.002" FraccionArancelaria="4009320599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.002" NumPiezas="2"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA LINEA DESCARGA COMPRE" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="4009220599" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR 90GR 3/4&quot; #8" Cantidad="200.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="22.000" FraccionArancelaria="7307920200" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="22.000" NumPiezas="200"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="25174800" Descripcion="CAJA DE BATERIAS ENS/INTERIOR" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.001" FraccionArancelaria="8708999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.001" NumPiezas="1"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA DE NYLON" Cantidad="16.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.560" FraccionArancelaria="8708999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.560" NumPiezas="16"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40141600" Descripcion="VALVULA PARA CLAXON" Cantidad="250.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="25.000" FraccionArancelaria="8481409999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="25.000" NumPiezas="250"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="26121600" Descripcion="ARNES CORNETA DE AIRE" Cantidad="4.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.320" FraccionArancelaria="8708999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.320" NumPiezas="4"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40142000" Descripcion="MANGUERA DE NYLON" Cantidad="16.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="6.560" FraccionArancelaria="8708999999" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="6.560" NumPiezas="16"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.800" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.800" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.800" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.800" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.800" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.800" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.800" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.800" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.800" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.800" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.800" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.800" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="2.800" FraccionArancelaria="3917400100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="2.800" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR CODO 90GRADOS" Cantidad="100.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="0.100" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="0.100" NumPiezas="100"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="250.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.500" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.500" NumPiezas="250"/>
+                </cartaporte31:Mercancia>
+                <cartaporte31:Mercancia BienesTransp="40172500" Descripcion="CONECTOR RECTO MACHO" Cantidad="250.000000" ClaveUnidad="H87" Unidad="Pieza" PesoEnKg="3.500" FraccionArancelaria="7412200100" TipoMateria="04">
+                    <cartaporte31:DocumentacionAduanera TipoDocumento="01" NumPedimento="24  19  6007  4101299" RFCImpo="KME591225JY1"/>
+                    <cartaporte31:GuiasIdentificacion NumeroGuiaIdentificacion="6104113498" DescripGuiaIdentificacion="49111**45A071" PesoGuiaIdentificacion="6305840"/>
+                    <cartaporte31:DetalleMercancia PesoBruto="3.500" NumPiezas="250"/>
+                </cartaporte31:Mercancia>
+            </cartaporte31:Mercancias>
+        </cartaporte31:CartaPorte>
+    </Complemento>
+</CARTAPORTEMX_V2>
