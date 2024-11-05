@@ -1,10 +1,11 @@
-import { useState } from "react";
+import { useState, useRef } from "react";
 import AxiosClient from "./helpers/ClienteAxios";
 import swal from "sweetalert2";
 
 function App() {
   const [file, setFile] = useState(null);
-  console.log(file);
+  const fileInputRef = useRef(null);
+
   const handleFileChange = (event) => {
     setFile(event.target.files[0]);
   };
@@ -17,21 +18,18 @@ function App() {
       return;
     }
 
-    // Crear un objeto FormData y agregar el archivo
     const formData = new FormData();
     formData.append("xml", file);
 
     try {
-      // Enviar el FormData al backend
       const response = await AxiosClient.post("/work", formData, {
-        responseType: "blob", // Esperar una respuesta de tipo blob
+        responseType: "blob",
         headers: {
           "Content-Type": "multipart/form-data",
         },
       });
 
       if (response.status === 200) {
-        // Mostrar un mensaje de éxito
         await swal.fire({
           title: "Archivo XML procesado",
           text: "El archivo XML fue procesado y se ha descargado exitosamente.",
@@ -39,17 +37,21 @@ function App() {
           confirmButtonText: "Aceptar",
         });
 
-        // Crear un blob y una URL para el archivo descargable
         const blob = new Blob([response.data], { type: "application/xml" });
         const url = window.URL.createObjectURL(blob);
 
-        // Crear un enlace para la descarga y simular un clic
         const a = document.createElement("a");
         a.href = url;
-        a.download = `updated_${file.name}`; // Nombre del archivo descargado
+        a.download = `updated_${file.name}`;
         document.body.appendChild(a);
         a.click();
         a.remove();
+
+        // Limpiar el input
+        setFile(null);
+        if (fileInputRef.current) {
+          fileInputRef.current.value = "";
+        }
       } else {
         swal.fire({
           icon: "error",
@@ -68,30 +70,51 @@ function App() {
   };
 
   return (
-    <div className="flex flex-col justify-center items-center min-h-dvh bg-gray-100 ">
-      <div className="text-2xl mb-8 flex flex-col justify-center items-center w-2/3 self-center h-2/3 mt-10">
-        <form
-          onSubmit={handleSubmit}
-          className="w-full flex flex-col justify-center items-center bg-white rounded-md shadow-md gap-4"
-        >
-          <label className="text-2xl font-bold mt-8" htmlFor="xml">
-            Selecciona el <span className="text-blue-700">XML:</span>
-          </label>
-          <input
-            className="w-1/2 border border-gray-400 p-2 bg-gray-100 rounded-md"
-            type="file"
-            name="xml"
-            id="xml"
-            accept=".xml"
-            onChange={handleFileChange}
+    <div className="flex flex-col min-h-screen bg-[#F5F5F5]">
+      <nav className="flex justify-between items-center w-full h-32 px-8 bg-gradient-to-b from-[#2C3E50] to-[#364F6B] shadow-md">
+        <div className="relative">
+          <img
+            src="./ktr.jpg"
+            className="h-28 w-28 rounded-full ring-4 ring-[#FF6B8A] shadow-2xl transform hover:scale-105 transition-transform"
+            alt="ktr"
           />
-          <input
-            className="w-1/2 bg-green-500 text-white hover:bg-green-700 transition-colors rounded-md p-2 mb-10"
-            type="submit"
-            value="Arreglar XML"
-          />
-        </form>
-      </div>
+        </div>
+        <h1 className=" text-3xl font-bold text-[#E0E0E0]">Reparador de XML</h1>
+      </nav>
+
+      <main className="flex flex-1 flex-col items-center justify-center">
+        <div className="text-2xl mb-8 flex flex-col justify-center items-center w-2/3 self-center mt-10">
+          <form
+            onSubmit={handleSubmit}
+            className="w-full max-w-2xl p-6 flex flex-col justify-center items-center bg-white rounded-lg shadow-lg gap-6"
+          >
+            <label className="text-3xl mt-4" htmlFor="xml">
+              Selecciona el{" "}
+              <span className="text-[#2C3E50] font-bold">XML:</span>
+            </label>
+            <input
+              className="w-full border border-gray-300 p-3 bg-gray-100 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+              type="file"
+              name="xml"
+              id="xml"
+              accept=".xml"
+              onChange={handleFileChange}
+              ref={fileInputRef}
+            />
+            <input
+              className="w-full hover:bg-[#FFB6C1] text-white font-semibold bg-[#2C3E50] transition-colors rounded-lg p-3 cursor-pointer"
+              type="submit"
+              value="Repara XML"
+            />
+          </form>
+        </div>
+      </main>
+
+      <footer className="bg-[#2C3E50] h-16 flex items-center justify-center shadow-inner">
+        <p className="text-white font-semibold">
+          © 2024 HMDev - Todos los derechos reservados
+        </p>
+      </footer>
     </div>
   );
 }
